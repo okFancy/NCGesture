@@ -1,8 +1,9 @@
 # NCGesture
-A elegant gestures in iOS.
 
+you can simply use blocks with methods like onTap. Each UIView object includes those methods via special extension
 
 ### Usage
+
 ```
 let view = UIView()
 
