@@ -67,3 +67,6 @@ let tapGestureRecognizer = TapGestureRecognizer { (tapGestureRecognizer) in
 }
 
 ```
+
+## 中文
+一个 block 形式手势识别器
